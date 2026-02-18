@@ -176,3 +176,4 @@ criterion = { version = "0.5", features = ["async_tokio"] }
 [[bench]]
 name = "agent_benchmarks"
 harness = false
+path = "benches/agent_benchmarks.rs"
